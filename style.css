@@ -346,6 +346,17 @@ main {
     /* Pas d'espace en bas */
     margin-bottom: 0;
 }
+.footer__confidentiality,
+.footer__legal {
+    display: inline-block;
+    margin: 8px 10px 0;
+    color: #6347FF#6347FF;
+    font-size: 13px;
+    text-decoration: none;
+    padding-top: 6px;
+    border-top: 1px solid #6347FF(0,0,0,0.04);
+}
+ 
  
 /* ========================================
    RESPONSIVE (Adaptation écrans petits)
